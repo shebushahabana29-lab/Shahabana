@@ -1,0 +1,116 @@
+.container{
+    height: 100%;
+    width: 100%;
+
+}
+.header{
+    display: flex;
+    align-items: center;
+     background-color:#fff;
+     gap: 15px;
+     height: 50px;
+     width: 100%;
+     
+
+}
+.ytb-icon{
+    height: 24px;
+    width: 40px;
+    cursor: pointer;
+    
+    float: left;
+    padding-top: 28px;
+    
+
+}
+.ytb{
+    float:left;
+    font-weight: bold;
+    font-size: 25px;
+    color: #000;
+    font-family:Roboto, Arial, sans-serif;
+    border-radius: 12px;
+    
+} 
+.menu-btn{
+    width: 30px;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background:none;
+    border: none;
+    cursor: pointer;
+    
+    
+}
+.menu-btn span{
+    display: block;
+    height: 3px;
+    background-color: black;
+    width: 100%;
+    border-radius: 2px;
+
+}.search-box{
+    width: 600px;
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    border: 2px solid#ccc;
+    border-radius: 25px;
+    margin-left: 200px;
+
+}
+.search-box input{
+    width: 100%;
+    border: none;
+    outline: none;
+    font-size: 16px;
+}
+.search-box button{
+    border: none;
+    background: none ;
+    cursor: pointer;
+    font-size: 18px;
+}
+.right-side{
+    margin: 0;
+    
+}
+.body{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.left-side{
+    width: 50px;
+    
+}
+.menu-butn{
+    background: none;
+    border: none;
+    width: 40px;
+    height: 50px;
+    font-size:15px;
+    padding: 30px;
+}
+.label{
+    margin-left: 5px;
+
+}
+.btn{
+    border-radius:5px ;
+    color: #fff;
+    background-color: black;
+    height: 30px;
+    margin: 10px;
+}
+.btn1{
+    border-radius: 5px;
+    height: 30px;
+    margin: 10px;
+    border:solid #fff;
+    cursor: pointer;
+
+    
+}

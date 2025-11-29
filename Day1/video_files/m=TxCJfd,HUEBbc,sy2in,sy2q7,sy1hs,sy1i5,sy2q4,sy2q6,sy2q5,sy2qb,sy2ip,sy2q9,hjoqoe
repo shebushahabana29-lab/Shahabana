@@ -1,0 +1,28 @@
+loaded_h_0(function(_){var window=this;
+_.t("TxCJfd");
+_.tr=class{constructor(a,b,c){this.name=a;this.oa=b;this.Aa=c}getName(){return this.name}};
+_.u();
+_.t("HUEBbc");
+_.YPp=class extends _.bo{static Sa(){return{service:{window:_.co,Ac:_.gv}}}constructor(a){super();this.window=a.service.window;this.Ac=a.service.Ac}};_.Ne(_.Abb,_.YPp);
+_.u();
+var VOe,WOe,XOe;_.UOe=class extends _.m{constructor(a){super(a)}getType(){return _.vi(this,1)}setType(a){return _.Jg(this,1,a)}Oe(){return _.Cj(this,1)}Ke(){return _.Og(this,1)}getSize(){return _.rd(this,2,20)}setSize(a){return _.oh(this,2,a)}LP(){return _.pd(this,2)}};
+VOe=class extends _.m{constructor(a){super(a)}getTitle(){return _.A(this,1)}setTitle(a){return _.Uf(this,1,a)}ld(){return _.zj(this,1)}Qc(){return _.A(this,2)}getImageUrl(){return _.A(this,3)}Fn(){return _.zj(this,3)}Aa(){return _.ri(this,3)}pu(){return _.A(this,4)}};WOe=class extends _.m{constructor(a){super(a)}getImageUrl(){return _.A(this,2)}Fn(){return _.zj(this,2)}Aa(){return _.ri(this,2)}};
+XOe=class extends _.m{constructor(a){super(a)}getImageUrl(){return _.A(this,2)}Fn(){return _.zj(this,2)}Aa(){return _.ri(this,2)}jh(){return _.A(this,3)}Nm(){return _.zj(this,3)}};XOe.prototype.ob="Mrq4Xb";_.YOe=class extends _.m{constructor(a){super(a)}Xme(){return _.zj(this,1)}getIcon(){return _.p(this,_.UOe,4)}setIcon(a){return _.Bb(this,_.UOe,4,a)}hasIcon(){return _.Rh(this,_.UOe,4)}};_.ZOe=[1,2,3,4,5,6,7,8,9,10];
+_.RJ=class extends _.m{constructor(a){super(a)}aI(){return _.yg(this,VOe,2,_.ZOe)}Wb(){return _.yg(this,_.YOe,3,_.ZOe)}Zb(a){return _.ii(this,3,_.ZOe,a)}Ve(){return _.Th(this,_.YOe,3,_.ZOe)}zP(){return _.yg(this,XOe,4,_.ZOe)}getPlace(){return _.yg(this,WOe,5,_.ZOe)}};_.$Oe=[0,_.ZOe,_.xk,[0,_.E,-2,_.yk,_.E],_.xk,[0,_.E,-3],_.xk,[0,_.E,-2,[0,_.H,_.C]],_.xk,[0,_.E,-2,1,_.E],_.xk,[0,_.E,-1],_.xk,[0,_.E],_.xk,[0,_.E,-1,[0,_.E,-5,_.C,_.D,-1,_.C],_.H],_.xk,[0,_.E,-5],_.xk,[0,_.sk,_.E,-2,_.H,_.E,-1],_.xk,[0,[1],_.xk,[0,_.E,-2]]];
+_.yaf=class extends _.m{constructor(a){super(a)}getTitle(){return _.A(this,1)}setTitle(a){return _.Uf(this,1,a)}ld(){return _.zj(this,1)}getState(){return _.vi(this,3)}setState(a){return _.Jg(this,3,a)}getId(){return _.A(this,11)}kd(a){return _.Uf(this,11,a)}Df(){return _.ri(this,11)}};
+_.ZUc=function(a,b,c,d){_.Hj(a,b).set(c,d);return a};
+_.iVc=[0,_.hVc,_.C,-1,_.Pj];
+var vaf=[0,_.Pj,-1];_.waf=[0,_.Jk,_.uaf,_.tk,[0,_.Sj,-3,_.tk],[0,[0,_.H],[0,_.H],_.D,_.H],[0,_.tk,-1],_.iVc,_.H,_.qk,_.ck,_.qk,[0,[0,[1,2],_.xk,[0,vaf],_.xk,[0,_.F,vaf]],[0,_.uaf]],_.qk];
+_.xaf=class extends _.m{constructor(a){super(a)}hPb(){return _.vi(this,4)}};
+_.zaf=[0,_.E,_.lVc,_.yk,_.H,1,_.H,_.waf];_.Baf=function(){var a=new _.Aaf;return _.Mg(a,1,!0)};_.Aaf=class extends _.m{constructor(a){super(a)}};_.Caf=[3,4];_.Daf=class extends _.m{constructor(a){super(a)}Ba(){return _.A(this,1)}Ca(){return _.zj(this,1)}getConfiguration(){return _.p(this,_.Aaf,3)}setConfiguration(a){return _.Bb(this,_.Aaf,3,a)}};_.Daf.prototype.Aa=_.Lb([0,_.E,_.F,[0,_.E,-2,[0,_.Caf,_.H,1,_.xk,[0,_.yk,_.zaf],_.xk,[0,_.E,-1]],_.H],[0,_.D,-4],[0,_.E,-1,_.H,_.D,5,_.$Oe,_.E,_.H]]);
+_.Xe(_.s2a);
+_.aPe=[0,_.F,_.$Oe];
+_.Faf=class extends _.m{constructor(a){super(a)}};_.Gaf=class extends _.m{constructor(a){super(a)}Aa(a){_.ph(this,2,_.xaf,a)}Ca(){return _.p(this,_.Faf,8)}Ba(a){_.Bb(this,_.Faf,8,a)}};
+_.t("hjoqoe");
+var B1C=!!(_.yh[89]>>16&1);var C1C=class extends _.m{constructor(a){super(a)}};var D1C=class extends _.m{constructor(a){super(a)}},E1C=[1];var F1C=_.Jb([0,E1C,_.xk,[0,_.Ik]]);var G1C=class extends _.m{constructor(a){super(a)}};var H1C=class extends _.m{constructor(a){super(a)}};var I1C=class extends _.m{constructor(a){super(a)}ze(){return _.p(this,H1C,1)}WN(){return _.Rh(this,H1C,1)}};var J1C=[1,2];var K1C=_.Fb(class extends _.m{constructor(a){super(a)}},[0,J1C,_.xk,[0,_.Ik],_.xk,[0,[0,_.E,_.F,[0,_.E,_.lVc,1,_.H,2,_.waf],_.H]]]);var L1C=new Set(["chrome-untrusted://lens","chrome://contextual-tasks"]),M1C=[0],N1C=async function(a,b){a.Ha.has("AiModeInput")||a.Ha.set("AiModeInput",[]);a.Ha.get("AiModeInput").push(b);return async()=>{if(a.Ha.has("AiModeInput")){const c=a.Ha.get("AiModeInput"),d=c.indexOf(b);d>=0&&c.splice(d,1);c.length===0&&a.Ha.delete("AiModeInput")}}};
+_.Ne(_.Bbb,class extends _.bo{static Sa(){return{service:{window:_.co,dbb:_.YPp}}}constructor(a){super();this.Ha=new Map;this.targetOrigin=null;this.window=a.service.window;this.dbb=a.service.dbb;this.window.get().addEventListener("message",b=>{if(L1C.has(b.origin))switch(this.targetOrigin=b.origin,b=K1C(b.data),_.ci(b,J1C)){case 1:b=_.yg(b,G1C,1,J1C);_.Hi(b,1,_.cg());b=this.sendMessage;var c=new D1C;var d=new C1C;d=_.rCa(d,1,M1C);c=_.ii(c,1,E1C,d);b.call(this,c);break;case 2:if(!_.yg(b,I1C,2,J1C).WN())throw Error("QD");
+this.handleEvent("AiModeInput",_.yg(b,I1C,2,J1C).ze(),_.Gaf)}},!1)}isAvailable(){return(new URLSearchParams(_.fv(this.dbb.Ac))).get("gsc")==="2"}Ta(a){return N1C(this,a)}Ca(){return!1}Ka(){return!1}oa(){return!1}Na(){return!1}Aa(){return!1}Ma(){Promise.resolve(void 0)}Ea(){return Promise.resolve(void 0)}Ba(){return Promise.resolve(void 0)}Da(){return Promise.resolve(void 0)}handleEvent(a,b,c){if(this.Ha.has(a)){b=_.Nb(c,b.serialize());a=[...this.Ha.get(a)];for(const d of a)d(b)}}sendMessage(a){if(this.targetOrigin===
+null&&(_.Ud(Error("RD")),B1C))return;let b;const c=(b=this.targetOrigin)!=null?b:"chrome-untrusted://lens";a=F1C(a);this.window.get().parent.postMessage(a,c)}});
+_.u();
+});
+// Google Inc.
